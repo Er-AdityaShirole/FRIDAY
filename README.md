@@ -1,8 +1,14 @@
-# FRIDAY: 
-To run this virtual assitant download all the files in repository.
+ 
+To run FRIDAY in your pc:
 
-*** Run ->  pip install -r .\requirements.txt 
-    this command in terminal first to install all required modules with respective versions
+*** Download all the files in repository.
 
-    Now run main.py file to initiate FRIDAY !!!
+*** Run below command in terminal
+
+    pip install -r .\requirements.txt 
+
+*** Now run main.py file Finally
+    
+
+    
     
